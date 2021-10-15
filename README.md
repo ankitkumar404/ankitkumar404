@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar404&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar404" /> </p>
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **React, javaScript**
 
